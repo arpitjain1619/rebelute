@@ -9,10 +9,10 @@
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
-    <link href="{{ url('public/css/common.css')}}" rel="stylesheet" type="text/css"/>
-    <script type="text/javascript" src="{{ url('public/lib/jquery-2.2.4.min.js') }}"></script>
-    <link href="{{ url('public/lib/bootstrap-3.3.7-dist/css/bootstrap.min.css') }}" rel="stylesheet">
-    <script type="text/javascript" src="{{ url('public/lib/bootstrap-3.3.7-dist/js/bootstrap.min.js') }}"></script>
+    <link href="{{ url('css/common.css')}}" rel="stylesheet" type="text/css"/>
+    <script type="text/javascript" src="{{ url('lib/jquery-2.2.4.min.js') }}"></script>
+    <link href="{{ url('lib/bootstrap-3.3.7-dist/css/bootstrap.min.css') }}" rel="stylesheet">
+    <script type="text/javascript" src="{{ url('lib/bootstrap-3.3.7-dist/js/bootstrap.min.js') }}"></script>
     <!-- Styles -->
 
 </head>
